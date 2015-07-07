@@ -1,6 +1,6 @@
 Demo of Fresco
 ==
-1、引入Fresco 
+1、Fresco 加载图片 
 -
 
 （1）在 build.gradle 中添加以下依赖：
